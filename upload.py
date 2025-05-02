@@ -8,7 +8,7 @@ def setup_database():
         connection = pymysql.connect(
             host="localhost",  # Replace with your MySQL host
             user="root",       # Replace with your MySQL username
-            password="Sachchidanand@12",  # Replace with your MySQL password
+            password="<password>",  # Replace with your MySQL password
             cursorclass=pymysql.cursors.DictCursor  # Optional: Use dictionary-style cursors
         )
         cursor = connection.cursor()
