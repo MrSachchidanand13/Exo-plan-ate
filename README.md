@@ -333,16 +333,7 @@ exoplanet-explorer/
 
 ---
 
-## 🔮 Future Enhancements
 
-- 🌐 Web interface with Flask/Django  
-- 📡 Real-time API sync with NASA  
-- 🌌 3D or interactive Plotly graphs  
-- 🤖 Machine learning predictions  
-- 🏁 Unit test coverage  
-- 🌍 Multi-language support
-
----
 
 
 
